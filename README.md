@@ -1,29 +1,22 @@
-# apptemplate
+# vueemployee
+**After 2 months and 6 days of training**
 
-## Project setup
-```
-npm install
-```
+![poster](https://github.com/Estelle111/vueemployee/blob/master/public/assets/vueEmployee.png) 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Description
+Learning vue.js by reproducing an app template
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Tools
+* vue
 
-### Run your tests
-```
-npm run test
-```
+## Challenges
+* Understand links between parents and children
+* Trying to pass a function from components to other components without router
+* Props
+* Methods
 
-### Lints and fixes files
-```
-npm run lint
-```
+## During
+BeCode training, 2019
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Author
+Estelle Mol
